@@ -1,5 +1,3 @@
-
-
     // ==UserScript==
     // @name           Witch Spoilers
     // @namespace      */boards.4chan.org/*
